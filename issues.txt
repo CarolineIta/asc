@@ -1,0 +1,5 @@
+Nosso Padrão de Nomenclatura:
+As issues devem seguir o seguinte padrão de nomenclatura:
+
+[PREFIXO] Breve descrição da issue em português
+
