@@ -1,0 +1,26 @@
+*Code Review*
+O code review, ou revisão de código, é um processo de revisão sistemática do código fonte de um software, feito por um ou mais desenvolvedores, com o objetivo de encontrar erros, bugs, problemas de segurança, inconsistências e/ou oportunidades de melhoria no código.
+A importância de realizar o code review é que ele ajuda a melhorar a qualidade do código fonte do software, tanto em termos de funcionalidade quanto de manutenção. Alguns dos benefícios do code review incluem:
+
+    Encontrar erros e problemas antes que o código seja implementado em produção, o que pode reduzir a quantidade de erros e problemas que os usuários finais encontram.
+    Melhorar a qualidade do código, tornando-o mais fácil de entender, manter e modificar.
+    Identificar oportunidades de otimização, de modo que o software possa ser mais eficiente em termos de desempenho, uso de memória, uso de recursos, entre outros.
+    Encorajar a colaboração e a comunicação entre os desenvolvedores, permitindo que eles aprendam uns com os outros e compartilhem boas práticas.
+    Aumentar a confiança da equipe no código, o que pode levar a um melhor fluxo de trabalho e a um ambiente mais produtivo.
+Algumas boas práticas que seguimos em nossa empresa:
+
+1. Use emoticons apenas para demonstrar aprovação, por exemplo 👍🏽 , ✅, 🚀, 😊.
+2. Não refatore o PR de outra pessoa sem que ela saiba. Caso sejam necessárias muitas modificações, realize comentários. Refatorar sem informar, retira a oportunidade de aprendizado da pessoa desenvolvedora.
+3. Prefira explicar suas sugestões com pequenos pedaços de código ou links que direcionem a pessoa desenvolvedora.
+4. Sempre que possível responda os comentários no PR. Habilitar a configuração para enviar alerta de novos comentários para o seu e-mail, pode ser uma ótima prática.
+5. Prefira usar linguagem sugestiva à imperativa. Outra boa opção, é utilizar perguntas, por exemplo:
+Exemplo 1
+❌ ” Ficou ruim ”
+✔️ ” É uma ótima prática utilizar nomes mais descritivos. Sugestão: isFlowStateFinished”.
+Exemplo 2
+❌ ” Nada disso ficou bom”
+✔️ ” É mais interessante utilizarmos o padrão do MVC. Você consegue perceber as melhorias associadas? Podemos conversar melhor sobre 😄 ”.
+Exemplo 3
+❌ ” Esse for está com uma performance ruim”
+✔️ ” Utilizar um find() poderia gerar uma performance melhor nesse trecho de código”.
+6. Em PRs maiores ou mais difíceis dê parabéns, ou envie uma mensagem positiva, na aprovação do PR. Trabalhar com desenvolvimento normalmente não é fácil, o incentivo dos colegas é uma prática bem positiva. Apesar de parecer simples, essa prática ajuda na manutenção da cultura e clima.
