@@ -1,0 +1,57 @@
+*Disaster Recovery*
+Um plano de Disaster Recovery para o Spotify deve incluir avaliação de riscos, uma equipe de resposta a desastres, backup de dados, um plano de continuidade de negócios, testes regulares e atualizações regulares para garantir a prontidão em caso de interrupção do sistema.
+Na empresa ASC, seguiremos os seguintes padrões: 
+
+Avaliar os riscos: 
+    Identificar os principais riscos que podem afetar o Spotify, como falhas de hardware, interrupções de rede ou falhas de software. Em seguida, avaliar o impacto que esses riscos podem ter no serviço e nos usuários.
+Criar uma equipe de resposta a desastres: 
+    Designar uma equipe para lidar com a recuperação do sistema, composta por membros com conhecimento técnico e experiência em recuperação de desastres. A equipe deve estar pronta para atuar em qualquer momento.
+Estabelecer um backup: 
+    Garantir que o Spotify tenha um backup completo dos dados críticos do serviço. Isso inclui backups de bancos de dados, sistemas de arquivos, configurações de software e outros dados necessários para restaurar o serviço em caso de falha.
+Estabelecer um plano de continuidade de negócios: 
+    Criar um plano de continuidade de negócios para garantir que as operações do Spotify continuem funcionando em caso de interrupção do sistema. O plano deve incluir procedimentos para redirecionar o tráfego para outros servidores ou data centers e outras medidas de contingência.
+Testar o plano de Disaster Recovery: 
+    Realizar testes regulares do plano de Disaster Recovery para garantir que a equipe esteja preparada para lidar com uma interrupção do sistema. Esses testes devem incluir simulações de interrupções para testar a eficácia do plano.
+Atualizar o plano de Disaster Recovery: 
+    Revisar e atualizar regularmente o plano de Disaster Recovery para garantir que ele esteja atualizado com as mudanças tecnológicas e de negócios.
+
+*Principais riscos identificados:*
+Ataques cibernéticos: 
+    o Spotify é um serviço online que armazena informações confidenciais de seus usuários, como senhas e informações de pagamento. Isso o torna um alvo atraente para hackers que buscam obter acesso a essas informações. Os ataques cibernéticos podem levar à divulgação de dados dos usuários, roubo de identidade e perda financeira.
+Problemas de segurança de aplicativos: 
+    o Spotify possui aplicativos para uma ampla variedade de plataformas, incluindo desktop, celular e dispositivos de streaming. Cada um desses aplicativos pode ter vulnerabilidades de segurança que podem ser exploradas por hackers para obter acesso não autorizado ao sistema.
+Falhas de hardware: 
+    o serviço do Spotify depende de servidores e outros equipamentos de hardware para funcionar corretamente. Falhas em qualquer um desses componentes podem levar à interrupção do serviço e tempo de inatividade para os usuários.
+Problemas de software: 
+    como qualquer software, o Spotify pode ter bugs ou outras vulnerabilidades que afetam sua funcionalidade e segurança. Esses problemas podem ser introduzidos durante o desenvolvimento do software ou surgir após a liberação de atualizações ou novos recursos.
+Interrupções de serviço de terceiros: 
+    o Spotify depende de vários serviços de terceiros, como provedores de nuvem e redes de entrega de conteúdo, para fornecer sua funcionalidade. Interrupções desses serviços podem afetar a disponibilidade do Spotify para os usuários.
+Desastres naturais: 
+    desastres naturais, como terremotos, inundações ou incêndios, podem afetar a infraestrutura de hardware do Spotify e interromper o serviço para os usuários.
+
+*Identificando ataques cibernéticos:*
+Lentidão ou falhas: 
+    um dos sintomas mais comuns de um ataque é a lentidão ou falha no desempenho do software. Isso pode ser causado por um grande número de acessos simultâneos, tentativas de sobrecarga do servidor ou a instalação de malware no sistema.
+Alterações inesperadas: 
+    outro sinal de um possível ataque é a ocorrência de alterações inesperadas no software. Isso pode incluir a modificação de arquivos, a adição de novos usuários ou a criação de novos recursos que não estavam presentes anteriormente.
+Acesso não autorizado: 
+    se houver registros de login de usuários não autorizados no sistema, isso pode ser um sinal de um ataque em andamento.
+Dados alterados ou excluídos: 
+    se houver relatos de dados que foram alterados ou excluídos sem motivo aparente, pode ser um sinal de que o sistema está sendo comprometido.
+Alertas de segurança: 
+    se o software estiver equipado com ferramentas de segurança, como um sistema de detecção de intrusão, essas ferramentas podem gerar alertas de segurança para indicar a presença de um ataque.
+
+*Etapas para recuperação do ambiente:*
+Isolamento: 
+    a primeira etapa é isolar o sistema comprometido para impedir que o ataque se espalhe para outros sistemas na rede. Isso pode ser feito desconectando o sistema da rede ou desligando-o completamente.
+Avaliação: 
+    a próxima etapa é avaliar o impacto do ataque e identificar todas as áreas afetadas. Isso pode incluir a identificação de quais dados foram comprometidos ou perdidos, bem como quais sistemas foram afetados.
+Mitigação: 
+    a etapa seguinte é a mitigação do ataque. Isso pode incluir a remoção do malware, a restauração de backups ou a aplicação de patches de segurança.
+Restauração: 
+    após a mitigação, é hora de restaurar o sistema comprometido para seu estado anterior ao ataque. Isso pode envolver a restauração de backups ou a recriação de dados ou configurações perdidas.
+Monitoramento: 
+    uma vez que o sistema foi restaurado, é importante monitorar de perto o ambiente para garantir que o ataque não volte a ocorrer e que o sistema esteja funcionando corretamente.
+Melhoria: 
+    por fim, é importante revisar o incidente e identificar maneiras de melhorar a segurança do ambiente para evitar futuros ataques cibernéticos.
+
