@@ -1,0 +1,16 @@
+*Deploy*
+
+O deploy é o processo de implantar o código de um software em um ambiente de produção, onde ele poderá ser acessado pelos usuários finais. O processo de deploy pode variar dependendo do tamanho e complexidade do projeto, bem como das tecnologias utilizadas e das políticas e práticas da equipe de desenvolvimento.
+Em nossa empresa iremos utilizar as práticas abaixo para organização do deploy:
+
+Ambientes de deploy: 
+    O processo de deploy geralmente envolve a implantação de código em vários ambientes, incluindo um ambiente de desenvolvimento, um ambiente de teste e um ambiente de produção. Isso ajuda a garantir que o código seja testado e validado antes de ser implantado em um ambiente de produção.
+Automação de deploy: 
+    O uso de ferramentas de automação pode ajudar a simplificar e acelerar o processo de deploy. Por exemplo, as ferramentas de integração contínua e entrega contínua (CI/CD) podem ser usadas para automatizar o processo de build, teste e implantação do código.
+Controle de versão: 
+    O uso de um sistema de controle de versão, como o Git, pode ajudar a garantir que o código implantado seja a versão correta e que todas as alterações feitas no código sejam rastreáveis e reversíveis.
+Monitoramento e rollback: 
+    É importante monitorar o ambiente de produção após o deploy para garantir que o software esteja funcionando corretamente e identificar quaisquer problemas. Em caso de problemas, um plano de rollback pode ser acionado para reverter a implantação para a versão anterior do software.
+Testes automatizados: 
+    É importante ter testes automatizados para garantir que o código implantado esteja funcionando corretamente e que não haja regressões. Esses testes devem ser executados automaticamente durante o processo de deploy.
+
