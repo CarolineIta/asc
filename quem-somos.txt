@@ -1,0 +1,23 @@
+A empresa ASC 
+
+*Quem somos?*
+    A ASC é a Empresa do Grupo 3 , o nome da empresa é inspirado nas iniciais das fundadoras
+     Ana Carolina , Simone e Caroline que buscam sempre disseminar a qualidade ajudando 
+     outras empresas a serem mais eficientes e eficazes.
+
+*Nosso Produto:*
+    Além de atuar na consultoria desses processos, temos um produto próprio chamado “Spotify” 
+    que permite o usuário escutar músicas , podcasts e até novelas, vamos comentar mais sobre ele abaixo.
+
+*Falando um pouco mais do Spotify:*
+    O Spotify é um serviço de streaming de música e podcasts, fundado em 2006 na Suécia. O seu objetivo é disponibilizar 
+aos seus usuários um vasto catálogo de músicas de diversos artistas, gravadoras e gêneros musicais,que podem ser ouvidas 
+online e offline, em diversos dispositivos, como smartphones, tablets, computadores, smart TVs e dispositivos de som.
+    Ele oferece duas opções de plano: o gratuito e o premium. 
+    O plano gratuito permite que os usuários ouçam músicas e podcasts, porém, com anúncios entre as músicas e algumas 
+limitações, como a impossibilidade de escolher uma música específica para tocar em determinado momento. 
+    Já o plano premium, que é pago, oferece mais recursos, como a possibilidade de escolher músicas específicas, sem anúncios,
+e a opção de download de músicas e podcasts para ouvir offline. Além disso, o Spotify também oferece recursos interessantes, como playlists 
+personalizadas, baseadas nos gostos musicais do usuário, a possibilidade de compartilhar músicas e playlists com amigos e
+uma variedade de recursos de descoberta de música, como listas de lançamentos, recomendações personalizadas e playlists temáticas.
+
