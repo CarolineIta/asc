@@ -1,0 +1,11 @@
+*Nossos Padrões:*
+Como sempre prezamos pela qualidade em todo processo de desenvolvimento estabelecemos alguns padrões de nomenclatura:
+
+1-Não utilizar acentos.
+2-Não utilizar espaços.
+3-Abreviações são aceitáveis.
+4-A clareza nos nomes é essencial mesmo que o nome fique longo
+5-Nome de variáveis e funções usar Camelcase , Ex: valorTotalCompra
+6-Nome de classes usar Pascal Case ,  Ex: MinhaClasse
+7-Comentar códigos complexos ou críticos mas fazer mais simples possível para que comentar não seja sempre necessário e sim uma exceção 
+8-Sempre se utilize tabulação para identação, e jamais espaços
