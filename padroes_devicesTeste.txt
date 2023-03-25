@@ -1,0 +1,16 @@
+*Devices de Teste*
+Podemos realizar testes no software spotify nos seguintes devices:
+Aplicativo para desktop: o Spotify possui um aplicativo para Windows e macOS que pode ser baixado diretamente do site oficial. É possível testar o serviço nessa plataforma realizando buscas, criando playlists e ouvindo músicas.
+Aplicativo para dispositivos móveis: o Spotify está disponível para iOS e Android, permitindo que os usuários acessem o serviço em seus smartphones e tablets. Os testes nessa plataforma incluem navegação no aplicativo, reprodução de músicas e criação de playlists.
+Navegador web: o Spotify também pode ser acessado diretamente pelo navegador, sem a necessidade de instalar o aplicativo. É possível testar o serviço no navegador realizando buscas, reproduzindo músicas e navegando pelas diferentes seções do site.
+Conectividade: o Spotify pode ser conectado a outros dispositivos, como alto-falantes inteligentes e sistemas de som de carros. É importante testar a conectividade nessas plataformas, garantindo que as músicas sejam reproduzidas corretamente e que não ocorram problemas de conexão.
+Além dessas plataformas, o Spotify também oferece planos para uso em TVs inteligentes e consoles de jogos, como Xbox e PlayStation. É importante testar o serviço em cada uma dessas plataformas, garantindo que os usuários possam acessá-lo de forma confiável e sem problemas técnicos.
+
+* Passos gerais que podemos utilizar para realização dos testes*
+Crie uma conta de teste: Se você ainda não possui uma conta no Spotify, crie uma nova conta de teste para poder explorar o aplicativo sem interferir em sua conta pessoal. Certifique-se de usar um endereço de e-mail diferente do que você usa para sua conta pessoal.
+Teste a funcionalidade básica: Comece testando as funcionalidades básicas do Spotify, como a pesquisa de músicas, a criação de playlists e a reprodução de músicas. Certifique-se de que todas essas funções estão funcionando corretamente.
+Teste a integração com outras plataformas: O Spotify possui integração com outras plataformas, como o Facebook e o Google Home. Certifique-se de que essas integrações estão funcionando corretamente e que você pode acessar suas playlists e músicas por meio dessas plataformas.
+Teste o recurso de recomendação: O recurso de recomendação é uma das principais funcionalidades do Spotify. Teste se as recomendações de músicas estão sendo feitas corretamente com base em suas preferências de música.
+Teste a interface do usuário: Verifique se a interface do usuário do Spotify é fácil de usar e intuitiva. Tente encontrar maneiras de melhorar a experiência do usuário e compartilhe suas sugestões com a equipe de desenvolvimento.
+Teste o aplicativo em diferentes dispositivos: O Spotify pode ser acessado em diferentes dispositivos, como smartphones, tablets, computadores e smart TVs. Certifique-se de que o aplicativo esteja funcionando corretamente em todos esses dispositivos.
+Teste de segurança: Certifique-se de que o Spotify esteja protegido contra ameaças de segurança, como ataques de hackers e roubo de informações pessoais.
