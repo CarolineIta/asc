@@ -1,0 +1,28 @@
+*Testes*
+
+Como são organizados os testes na nossa empresa:
+Os testes na nossa empresa são estruturados seguindo os passos abaixo:
+
+Definir uma estratégia de testes: 
+Escopo de Testes
+
+    Para verificar a aplicação e garantir que a mesma tenha sido desenvolvida conforme o esperado, são estabelecidos os testes necessários para isso. A definição do escopo dos testes,foi elaborada a partir dos principais requisitos funcionais da aplicação
+    A partir das funcionalidades é estabelecido os testes de caixa-preta que darão cobertura necessária para o software, visto que se sabe quais serão as entradas e os resultados esperados do sistema, mesmo não tendo conhecimento do processo interno.
+    Após a definição do escopo dos testes, teremos a construção dos casos de testes, onde são escolhidos dados que servirão para teste da aplicação e os objetivos que se deseja alcançar com os mesmos. O produto final de trabalho com os processos destacados é o plano de testes da aplicação, onde estará contido o escopo, propósito e estratégia dos testes, assim como os casos de testes, detalhados passo a passo.								
+Escolher a ferramenta certa: 
+    Testes manuais funcionais,integração e usabilidade de acordo com o plano de teste
+    Testes automatizados: Selenium, Appium
+    Gerenciamento de testes: Jira
+    Teste de desempenho: JMeter
+Automatizar testes sempre que possível: 
+    A automação de testes é uma prática eficiente que ajuda a reduzir o tempo de execução dos testes e aumentar a cobertura de testes. É importante identificar as áreas do software que podem ser automatizadas e desenvolver scripts de teste para essas áreas.
+Definir papéis e responsabilidades:
+    A nossa equipe de QA é responsável pelo desenvolvimento e execução dos testes manuais e automático
+Documentar os testes: 
+    Documentar os testes é uma prática importante para garantir que os resultados dos testes sejam registrados corretamente e que possam ser facilmente rastreados e compartilhados com outras equipes.
+Priorizar os testes: 
+    É importante priorizar os testes com base nos riscos e na importância do software. Isso ajudará a garantir que os testes mais críticos sejam executados primeiro e que os recursos sejam alocados de forma eficiente.
+    Realizar testes em diferentes plataformas: 
+    É importante testar o software em diferentes plataformas, como navegadores, dispositivos móveis e sistemas operacionais, para garantir que o software seja compatível e funcione corretamente em cada plataforma.
+Realizar testes contínuos: 
+    A realização de testes contínuos ajuda a garantir que o software seja testado regularmente durante o processo de desenvolvimento e que os problemas sejam identificados e corrigidos rapidamente. Isso ajuda a reduzir o tempo de desenvolvimento e a melhorar a qualidade do software.
